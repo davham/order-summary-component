@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background: url('images/pattern-background-desktop.svg')
     
 }
 .container {
@@ -7,4 +8,13 @@ body {
     margin: 0 auto;
     width: 100%;
     max-width: 1440px;
+}
+
+.card {
+    border: 2px solid blue;
+    margin: 0 auto;
+    width: 25%;
+}
+img {
+    width: 100%;
 }
